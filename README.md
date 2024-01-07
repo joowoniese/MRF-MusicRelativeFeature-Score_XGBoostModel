@@ -1,4 +1,4 @@
-# MRFScore_SourceCode
+# MRFScore XGBoost Regression Model
 
 ## MRFScore (Music Relatinship Feature Score)
 MRF Scores shows the relationship score of a song or track.
