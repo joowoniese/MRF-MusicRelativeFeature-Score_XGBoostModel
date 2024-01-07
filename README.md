@@ -1,6 +1,7 @@
 # MRFScore XGBoost Regression Model
 
 <img width="500" alt="image" src="https://github.com/joowoniese/MRFScore_SourceCode/assets/101194343/893aa2ff-63a6-4407-b449-717be893407e">
+
 The MRF Score, standing for Music Relationship Feature, represents the music relationship score of a song or track.
 Originally, extracting MRF Scores requires the pitch notes of a song or track.
 However, to simplify this process, we developed a regression model using the XGBoost Regressor.
